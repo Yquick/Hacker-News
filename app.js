@@ -64,5 +64,5 @@ function router() {
   }
 }
 window.addEventListener('hashchange', router);
-
+a
 router();
